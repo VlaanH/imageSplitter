@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:imageSplit"
+             x:Class="imageSplit.MainPage">
+<Grid>
+   
+      
+
+    <Grid.RowDefinitions >
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+        <RowDefinition/>
+    </Grid.RowDefinitions >
+
+
+    <Label Grid.Row="0" x:Name="SizeLabel"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"   />
+
+    <Grid  Grid.Row="9">
+        <Grid.ColumnDefinitions >
+          <ColumnDefinition/>
+          <ColumnDefinition/> 
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/> 
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/> 
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/> 
+          <ColumnDefinition/>
+          <ColumnDefinition/>
+          <ColumnDefinition/> 
+          <ColumnDefinition/>
+          
+          
+        </Grid.ColumnDefinitions >
+        <Label  x:Name="SliderLabel" TextColor="Black" Grid.Column="0" VerticalTextAlignment="Center" HorizontalOptions="Center" HorizontalTextAlignment="Center" Text="  1"></Label>
+        
+        <Slider x:Name="SliderSplit" Maximum="6" Minimum="2" Margin="-10,0,0,0" Grid.Column="1" Grid.ColumnSpan="17" ValueChanged="Slider_OnValueChanged" MinimumTrackColor="Pink" MaximumTrackColor="Black"></Slider>
+    </Grid>
+    <Image x:Name="ImageViw" Grid.Row="1" Grid.RowSpan="8"></Image>
+    
+
+    <Grid  Grid.Row="10">
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition/>
+            <ColumnDefinition/> 
+            
+          
+        </Grid.ColumnDefinitions >
+        <Button x:Name="PickImge" Clicked="PickImge_OnClicked" Grid.Column="0" Text="Pick File"></Button>
+        
+        <Button x:Name="Save" Clicked="ButtonSave_OnClicked" Grid.Column="1" Text="Save"></Button>
+    </Grid>
+    
+  
+    
+</Grid>
+    
+   
+    
+
+</ContentPage>

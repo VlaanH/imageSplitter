@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/opom0n7UNP6QZmbIjCOwt3vFr8DvItOShqgC5mxd1u8f4I2oP3MKsKjP3O2WhexSMmw9BWVWxOQOgMDHHNwA==",
+  "success": true,
+  "projectFilePath": "/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplitter/imageSplitter.csproj",
+  "expectedPackageFiles": [
+    "/home/vlanh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/skiasharp.views.forms/2.88.3/skiasharp.views.forms.2.88.3.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/xamarin.essentials/1.8.0/xamarin.essentials.1.8.0.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/xamarin.mediagallery/2.2.1/xamarin.mediagallery.2.2.1.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/xamarin.mediagallery.permision/2.2.1/xamarin.mediagallery.permision.2.2.1.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/xamarin.plugin.filepicker/2.1.44-beta/xamarin.plugin.filepicker.2.1.44-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

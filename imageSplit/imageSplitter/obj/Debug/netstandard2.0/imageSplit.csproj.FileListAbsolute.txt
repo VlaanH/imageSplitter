@@ -1,0 +1,12 @@
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/bin/Debug/netstandard2.0/imageSplit.deps.json
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/bin/Debug/netstandard2.0/imageSplit.dll
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/bin/Debug/netstandard2.0/imageSplit.pdb
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/imageSplit.csproj.AssemblyReference.cache
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/App.xaml.g.cs
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/imageSplit.AssemblyInfoInputs.cache
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/imageSplit.AssemblyInfo.cs
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/imageSplit.csproj.CoreCompileInputs.cache
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/XamlC.stamp
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/imageSplit.dll
+/home/vlanh/RiderProjects/imageSplit/imageSplit/imageSplit/obj/Debug/netstandard2.0/imageSplit.pdb
