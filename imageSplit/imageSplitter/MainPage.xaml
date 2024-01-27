@@ -63,9 +63,11 @@
             
           
         </Grid.ColumnDefinitions >
-        <Button x:Name="PickImge" Clicked="PickImge_OnClicked" Grid.Column="0" Text="Pick File"></Button>
+        <Button x:Name="PickImge" BackgroundColor="#FFFFC0CB" CornerRadius="100" TextColor="White" 
+                Clicked="PickImge_OnClicked" Grid.Column="0" Text="⚞ Pick File ⚟"></Button>
         
-        <Button x:Name="Save" Clicked="ButtonSave_OnClicked" Grid.Column="1" Text="Save"></Button>
+        <Button x:Name="Save" BackgroundColor="#FFFFC0CB" CornerRadius="100" TextColor="White"
+                Clicked="ButtonSave_OnClicked" Grid.Column="1" Text="Save ❏"></Button>
     </Grid>
     
   
